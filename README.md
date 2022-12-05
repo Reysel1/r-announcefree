@@ -1,4 +1,4 @@
-###Social
+### Social
 
 Discord: https://discord.gg/8Kqmxu7YH6
 
@@ -6,7 +6,7 @@ Discord: https://discord.gg/8Kqmxu7YH6
 
 - El recurso no esta terminado | The resource is not finished 
 
-###Requirements | Requerimientos
+### Requirements | Requerimientos
 - download and put it on your server : https://github.com/CherryozZ/qb-menu-default
 
 ### Add to qb-core/client/functions.lua 
