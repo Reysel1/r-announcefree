@@ -3,7 +3,7 @@
 Discord: https://discord.gg/8Kqmxu7YH6
 
 ### Desc
-
+- Vista previa | Preview : https://streamable.com/c6vsa9
 - El recurso no esta terminado | The resource is not finished 
 
 ### Requirements | Requerimientos
